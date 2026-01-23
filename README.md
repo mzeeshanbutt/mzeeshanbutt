@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
-<h3 align="center">An App Developer from Pakistan</h3>
+<h3 align="center"> App Developer from Pakistan</h3>
 
 ### 💫 About Me:
 
@@ -8,10 +8,9 @@
 - 👯 I’m looking to collaborate on **Open Source Flutter Projects & Mobile App Internships**
 - 💬 Ask me about **Flutter, Dart, Mobile UI/UX Design**
 - ⚡ Fun fact:I actually enjoy reading documentation more than manual instructions for furniture. 📖🔨
-- 
+  
 
 # 💻 Tech Stack:
----
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -23,18 +22,26 @@
 
 ### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=%2302569B) 
+![Dart](https://img.shields.io/badge/Dart-%23212121?style=for-the-badge&logo=dart&logoColor=white)
 
+### ☁️ Backend & Tools
+![Firebase](https://img.shields.io/badge/Firebase-%231A1A1A?style=for-the-badge&logo=firebase&logoColor=%23FFCA28) 
+![Git](https://img.shields.io/badge/Git-%231A1A1A?style=for-the-badge&logo=git&logoColor=%23F05033) 
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzeeshanbutt&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzeeshanbutt&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/Figma-%231A1A1A?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mzeeshanbutt&theme=dark&hide_border=false" />
+  <br/><br/>
 </p>
-
 ---
-
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshanbutt)
 * [Twitter]([https://www.linkedin.com/in/muhammad-zeeshanbutt](https://x.com/MZeeshanBu76308))
