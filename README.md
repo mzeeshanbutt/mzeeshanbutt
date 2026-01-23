@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm [Muhammad Zeeshan]! 👋
+### 🚀 Aspiring Flutter Developer | Student | Based in Lahore, Pakistan
 
-<!--
-**mzeeshanbutt/mzeeshanbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and a passionate Mobile App Developer on a journey to master **Flutter & Dart**. I focus on building scalable, clean, and user-friendly applications. Currently seeking **Internship opportunities** where I can contribute and grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Dart, C++ (if applicable)
+* **Frameworks:** Flutter
+* **Architecture:** Clean Architecture, Feature-First, MVVM
+* **Tools:** Git, VS Code, Android Studio
+* **Methodology:** Agile Development
+
+---
+
+### 🔭 What I'm Currently Building: "Nakhra Store" 🛍️
+I am currently engineering a full-scale E-commerce application to master industry-standard practices. This isn't just a clone; it's a deep dive into scalable app architecture.
+
+**Key Technical Implementations:**
+* **Architecture:** Utilizing a **Feature-First Folder Structure** to ensure the codebase remains scalable and maintainable.
+* **State Management:** Implementing robust state management (Provider/Riverpod/Bloc - *choose your tool*) for seamless data flow.
+* **UI/UX:** Fully responsive design with dynamic **Dark & Light Mode** support.
+* **Backend Logic:** Handling complex CRUD operations.
+* **Workflow:** Built using **Agile Programming** principles, simulating a real-world development lifecycle.
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=gotham" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ A Little About Me
+* **Focus:** I am strictly focused on coding right now, treating my learning curve like a competitive sport.
+* **Background:** Ex-Competitive Esports Gamer 🎮. I've paused gaming to focus 100% on development, but I bring that same competitive drive and strategic thinking to my code.
+* **Goal:** To land an internship where I can apply my skills in Clean Architecture and Flutter development.
+
+---
+
+### 📫 Connect with Me
+* [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/muhammad-zeeshanbutt))
+* [Email](mailto:your-mzeeshanbutt07@gmail.com)
