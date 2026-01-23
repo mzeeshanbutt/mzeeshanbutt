@@ -42,5 +42,5 @@ I am currently engineering a full-scale E-commerce application to master industr
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/muhammad-zeeshanbutt))
+* [LinkedIn]([https://www.linkedin.com/in/muhammad-zeeshanbutt]
 * [Email](mailto:your-mzeeshanbutt07@gmail.com)
