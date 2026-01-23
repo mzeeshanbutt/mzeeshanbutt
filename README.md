@@ -12,7 +12,7 @@
 
 # 💻 Tech Stack:
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=%2302569B) 
+![Figma](https://img.shields.io/badge/Figma-%231A1A1A?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ☁️ Backend & Tools
@@ -41,8 +41,10 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mzeeshanbutt&theme=dark&hide_border=false" />
   <br/><br/>
 </p>
+
+
+📫 Connect with Me
 ---
-### 📫 Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshanbutt)
 * [Twitter](https://x.com/MZeeshanBu76308)
