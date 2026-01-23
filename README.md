@@ -4,15 +4,19 @@
 ### 💫 About Me:
 
 - 🔭 I’m currently working on **Nakhra Store** (A scalable E-commerce app)
+  
 - 🌱 I’m currently learning **Clean Architecture & State Management (Provider/Riverpod)**
+  
 - 👯 I’m looking to collaborate on **Open Source Flutter Projects & Mobile App Internships**
+  
 - 💬 Ask me about **Flutter, Dart, Mobile UI/UX Design**
-- ⚡ Fun fact:I actually enjoy reading documentation more than manual instructions for furniture. 📖🔨
+  
+- ⚡ Fun fact: I actually enjoy reading documentation more than manual instructions for furniture. 📖🔨
   
 
 # 💻 Tech Stack:
 ### 📱 Mobile Development
-![Figma](https://img.shields.io/badge/Figma-%231A1A1A?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=%2302569B)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ☁️ Backend & Tools
