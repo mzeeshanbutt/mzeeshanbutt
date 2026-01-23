@@ -1,5 +1,6 @@
-# Hi there, I'm [Muhammad Zeeshan]! 👋
-### 🚀 Aspiring Flutter Developer | Student | Based in Lahore, Pakistan
+<h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
+<h3 align="center">An App Developer from Pakistan</h3>
+
 
 I am a Computer Science student and a passionate Mobile App Developer on a journey to master **Flutter & Dart**. I focus on building scalable, clean, and user-friendly applications. Currently seeking **Internship opportunities** where I can contribute and grow.
 
