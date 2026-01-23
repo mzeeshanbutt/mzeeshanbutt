@@ -12,7 +12,7 @@
 
 # 💻 Tech Stack:
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=%2302569B) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ☁️ Backend & Tools
@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=%2302569B) 
+
 ![Dart](https://img.shields.io/badge/Dart-%23212121?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ☁️ Backend & Tools
@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
 
 ### 🎨 Design & UI/UX
-![Figma](https://img.shields.io/badge/Figma-%231A1A1A?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Figma](https://img.shields.io/badge/Figma-%231A1A1A?style=for-the-badge&logo=figma&logoColor=white)
 
 <h2>📊 GitHub Stats</h2>
 
@@ -43,6 +43,7 @@
 </p>
 ---
 ### 📫 Connect with Me
+
 * [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshanbutt)
-* [Twitter]([https://www.linkedin.com/in/muhammad-zeeshanbutt](https://x.com/MZeeshanBu76308))
+* [Twitter](https://x.com/MZeeshanBu76308)
 * [Email](mailto:your-mzeeshanbutt07@gmail.com)
