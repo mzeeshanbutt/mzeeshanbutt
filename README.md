@@ -28,8 +28,8 @@ I am currently engineering a full-scale E-commerce application to master industr
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=gotham" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[mzeeshanbutt]&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[mzeeshanbutt]&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 
 ---
