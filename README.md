@@ -15,7 +15,6 @@
   
 
 # 💻 Tech Stack:
-### 🛠️ Specialized Tools
 <a href="https://figma.com">
   <img src="https://skillicons.dev/icons?i=figma,firebase,flutter,dart,git,github" />
 </a>
