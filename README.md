@@ -32,6 +32,11 @@ I am currently engineering a full-scale E-commerce application to master industr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[mzeeshanbutt]&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzeeshanbutt&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzeeshanbutt&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
 ---
 
 ### ⚡ A Little About Me
