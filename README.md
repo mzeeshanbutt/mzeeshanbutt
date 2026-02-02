@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baaz-cheema&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/baaz-cheema?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=mzeeshanbutt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mzeeshanbutt?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <!-- <h3 align="center"> App Developer from Pakistan</h3> -->
