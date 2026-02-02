@@ -5,7 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Flutter+Developer+from+Pakistan;Flutter+%7C+Firebase+%7C+Andriod;Building+Scalable+Mobile+Apps;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
-<h3 align="center"> App Developer from Pakistan</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=baaz-cheema&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/baaz-cheema?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+<!-- <h3 align="center"> App Developer from Pakistan</h3> -->
 
 ### 💫 About Me:
 
