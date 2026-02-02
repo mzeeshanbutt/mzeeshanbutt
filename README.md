@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Flutter+Developer+from+Pakistan;Flutter+%7C+Firebase+%7C+Andriod+%7C+Full+Stack;Building+Scalable+Andriod/IOS+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
+</div>
+
 <h3 align="center"> App Developer from Pakistan</h3>
 
 ### 💫 About Me:
